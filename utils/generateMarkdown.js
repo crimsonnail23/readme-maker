@@ -14,7 +14,7 @@ function renderLicenseSection(license) {}
 function generateMarkdown(readMe) {
   return `
   
-  # ${readMe.title}
+  # ${projectName}
 
   # Description
 
